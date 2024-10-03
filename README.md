@@ -42,7 +42,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load the image
-image = cv2.imread('HappyFish.jpg')
+image = cv2.imread('img2.jpeg')
 image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
 
 
